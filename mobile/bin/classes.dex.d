@@ -1,0 +1,26 @@
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes.dex : \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/MainActivity.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/BuildConfig.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/R$string.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/R$layout.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/R.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/R$attr.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/classes/hr/ponge/cubis/R$drawable.class \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-jogg-1f3dc937534923ea5eabc66e8d20d017.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-android-83c5a3c8156acbb57165ec05954df8b5.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-plugins-60ca09be5bdb3abe45358f7819249a71.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-niftygui-b59783f98eaa45e033dd0382ef9e345e.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/nifty-default-controls-3cf4a081caf9d37a5f08edeefe58f530.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-core-bc4648bfa6bda89fe3579285ff60b58c.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/MyGame-7fec39dc8cd80897b10318b9289c90f3.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-testdata-a3f74206d25916aae3004034d7f70a75.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/j-ogg-vorbisd-23bcee548c651b2fb52b4f3d24c006af.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/j-ogg-oggd-f4c9b7abde613deac81ef5672b08dbd2.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/nifty-style-black-46d77b4f4ad356a5034f6d8064a4d1f9.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/eventbus-a43608beee1ccbc4cf0c731019806c25.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-bullet-6486d906bb20057c3e429be33dbb8544.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-effects-b4c4fae401631b4393f27bc2d80bf8c1.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-terrain-31967e77d936ee75590ba6330f340819.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/xmlpull-xpp3-8d4a6bcb7ba407ce61f5bb21d0a5e937.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/jME3-networking-6de0bf8c53a2ce7149f8106c1faf9e80.jar \
+/home/kruno/jmonkey_workspace/BasicGame1/mobile/bin/dexedLibs/nifty-5c457fb453bd5e0b6b58d2ba90ec7356.jar \
