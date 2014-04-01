@@ -30,7 +30,7 @@ public class Ground {
     private Node node;
     public Ground(AssetManager assetManager) {
          node = new Node("GROUND");
-        spatial = assetManager.loadModel("Models/tepih/tepih.mesh.j3o");
+        spatial = assetManager.loadModel("Models/ground/tepih.mesh.j3o");
        // spatial.setShadowMode(RenderQueue.ShadowMode.Receive);
  Material mat = assetManager.loadMaterial("Materials/tepih.j3m");
    TextureKey mainTexture = new TextureKey("Textures/tepih/ground1.png", false);

@@ -41,8 +41,8 @@ public class Main extends SimpleApplication {
         Main app = new Main();
         AppSettings settings = new AppSettings(true);
         settings.setFullscreen(false);
-        settings.setWidth(1024);
-        settings.setHeight(768);
+        settings.setWidth(640);
+        settings.setHeight(480);
         app.setSettings(settings);
         app.setShowSettings(false);
         app.setDisplayFps(false);
