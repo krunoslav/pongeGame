@@ -138,6 +138,9 @@ public class Main extends SimpleApplication {
                startScreen.deactivate();
                game.activate();
            }
+            if(transitionInfo!=null && transitionInfo.equals("EXIT")){
+             System.exit(0);
+           }
 
 
         }

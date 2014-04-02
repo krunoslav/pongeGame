@@ -100,7 +100,11 @@ public class StartScreen extends Component {
                 
                 transition("START_GAME");
             }
-
+                if (norm_x >= 268 && norm_x <= 370
+                    && norm_y >= 100 && norm_y <= 134) {
+                
+                transition("EXIT");
+            }
 
             return false;
 
